@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 8deac6406340f5445af39061070c7399
+timeCreated: 1467136305
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_Roleta 1_0
+    21300002: Sprite_Roleta 1_1
+    21300004: Sprite_Roleta 1_2
+    21300006: Sprite_Roleta 1_3
+    21300008: Sprite_Roleta 1_4
+    21300010: Sprite_Roleta 1_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_Roleta 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1141
+        width: 806
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 217, y: -190.3424}
+        - {x: 222, y: -186.3424}
+        - {x: 222, y: -185.3424}
+        - {x: 226, y: -180.3424}
+        - {x: 226, y: 146.6576}
+        - {x: 225, y: 150.6576}
+        - {x: 223, y: 152.6576}
+        - {x: 223, y: 153.6576}
+        - {x: 218, y: 158.6576}
+        - {x: 217, y: 158.6576}
+        - {x: 213, y: 161.6576}
+        - {x: 209, y: 161.6576}
+        - {x: 208, y: 162.6576}
+        - {x: 119, y: 162.6576}
+        - {x: 119, y: 192.6576}
+        - {x: -138, y: 192.6576}
+        - {x: -138, y: 166.6576}
+        - {x: -136, y: 164.6576}
+        - {x: -129, y: 164.6576}
+        - {x: -129, y: 162.6576}
+        - {x: -209, y: 162.6576}
+        - {x: -210, y: 161.6576}
+        - {x: -214, y: 161.6576}
+        - {x: -215, y: 160.6576}
+        - {x: -217, y: 160.6576}
+        - {x: -224, y: 154.6576}
+        - {x: -224, y: 153.6576}
+        - {x: -226, y: 151.6576}
+        - {x: -226, y: -182.3424}
+        - {x: -225, y: -183.3424}
+        - {x: -225, y: -184.3424}
+        - {x: -220, y: -190.3424}
+        - {x: -215, y: -192.3424}
+        - {x: 214, y: -192.3424}
+        - {x: 216, y: -190.3424}
+    - name: Sprite_Roleta 1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 870
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.848053, y: 29.350647}
+        - {x: -30.848053, y: 11.350647}
+        - {x: -13.848053, y: -26.649353}
+        - {x: -9.848053, y: -28.649353}
+        - {x: 8.151947, y: -28.649353}
+        - {x: 32.151947, y: 6.350647}
+        - {x: 32.151947, y: 29.350647}
+    - name: Sprite_Roleta 1_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 845
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.98486, y: 73.34631}
+        - {x: -72.98486, y: 53.346313}
+        - {x: -72.98486, y: -55.653687}
+        - {x: -48.984863, y: -72.65369}
+        - {x: 50.015137, y: -72.65369}
+        - {x: 74.01514, y: -38.653687}
+        - {x: 74.01514, y: 44.346313}
+        - {x: 37.015137, y: 73.34631}
+      - - {x: 69.01514, y: -71.65369}
+        - {x: 69.01514, y: -72.65369}
+        - {x: 74.01514, y: -72.65369}
+        - {x: 74.01514, y: -69.65369}
+        - {x: 71.01514, y: -69.65369}
+    - name: Sprite_Roleta 1_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 798
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.68053, y: -199}
+        - {x: 129.68053, y: -187}
+        - {x: 140.68053, y: -179}
+        - {x: 153.68053, y: -168}
+        - {x: 167.68053, y: -153}
+        - {x: 182.68053, y: -136}
+        - {x: 191.68053, y: -123}
+        - {x: 204.68053, y: -99}
+        - {x: 213.68053, y: -77}
+        - {x: 218.68053, y: -62}
+        - {x: 224.68053, y: -39}
+        - {x: 224.68053, y: 34}
+        - {x: 219.68053, y: 61}
+        - {x: 213.68053, y: 76}
+        - {x: 206.68053, y: 96}
+        - {x: 195.68053, y: 115}
+        - {x: 186.68053, y: 129}
+        - {x: 172.68053, y: 147}
+        - {x: 158.68053, y: 162}
+        - {x: 147.68053, y: 172}
+        - {x: 130.68053, y: 185}
+        - {x: 109.68053, y: 199}
+        - {x: 86.68053, y: 210}
+        - {x: 62.680527, y: 217}
+        - {x: 54.680527, y: 219}
+        - {x: 41.680527, y: 222}
+        - {x: 30.680527, y: 224}
+        - {x: -26.319473, y: 224}
+        - {x: -33.319473, y: 223}
+        - {x: -58.319473, y: 219}
+        - {x: -84.31947, y: 209}
+        - {x: -98.31947, y: 203}
+        - {x: -115.31947, y: 194}
+        - {x: -130.31947, y: 184}
+        - {x: -149.31947, y: 169}
+        - {x: -175.31947, y: 142}
+        - {x: -184.31947, y: 130}
+        - {x: -203.31947, y: 100}
+        - {x: -212.31947, y: 79}
+        - {x: -217.31947, y: 63}
+        - {x: -221.31947, y: 42}
+        - {x: -223.31947, y: 27}
+        - {x: -223.31947, y: -29}
+        - {x: -222.31947, y: -37}
+        - {x: -217.31947, y: -65}
+        - {x: -211.31947, y: -79}
+        - {x: -202.31947, y: -103}
+        - {x: -183.31947, y: -133}
+        - {x: -175.31947, y: -143}
+        - {x: -164.31947, y: -156}
+        - {x: -145.31947, y: -174}
+        - {x: -119.31947, y: -193}
+        - {x: -103.31947, y: -203}
+        - {x: -80.31947, y: -213}
+        - {x: -55.319473, y: -220}
+        - {x: -35.319473, y: -224}
+        - {x: 34.680527, y: -224}
+        - {x: 53.680527, y: -222}
+        - {x: 85.68053, y: -212}
+    - name: Sprite_Roleta 1_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 469
+        width: 299
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.22598, y: 99.72122}
+        - {x: 52.225983, y: 108.72122}
+        - {x: -47.774017, y: 108.72122}
+        - {x: -68.77402, y: 106.72122}
+        - {x: -76.77402, y: 81.72122}
+        - {x: -76.77402, y: 23.721222}
+        - {x: -55.774017, y: -89.27878}
+        - {x: -48.774017, y: -107.27878}
+        - {x: 51.225983, y: -107.27878}
+        - {x: 59.225983, y: -92.27878}
+        - {x: 84.22598, y: 22.721222}
+        - {x: 84.22598, y: 79.72122}
+    - name: Sprite_Roleta 1_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 161
+        width: 201
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.435944, y: 86.18788}
+        - {x: -51.435944, y: 82.18788}
+        - {x: -51.435944, y: 52.18788}
+        - {x: -31.435944, y: -73.81212}
+        - {x: 23.564056, y: -73.81212}
+        - {x: 56.564056, y: 74.18788}
+        - {x: 56.564056, y: 86.18788}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8 @@
+nao perder vidas uma atrás da outra
+mudar movimento por animação
+barra de power up crescer suavemente
+tutorial
+consumindo whei para encher a barra?
+sair da tela de jogo e de game over
+jogo bloqueia a tela de bloqueio
+fazer comidas, wheys, etc se moverem de um lado para o outro e o jogador tem que acertar as comidas na área verde

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 04613f7868694ac49801661b525509ed
+timeCreated: 1466545404
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_Mouth_0
+    21300002: Sprite_Mouth_1
+    21300004: Sprite_Mouth_2
+    21300006: Sprite_Mouth_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_Mouth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 125}
+        - {x: -128, y: -125}
+        - {x: 128, y: -125}
+        - {x: 128, y: 125}
+      - - {x: -123, y: 120}
+        - {x: 124, y: 120}
+        - {x: 124, y: -120}
+        - {x: -123, y: -120}
+      - - {x: -86, y: -54}
+        - {x: -33, y: -61}
+        - {x: 90, y: -61}
+        - {x: 90, y: 71}
+        - {x: -60, y: 71}
+        - {x: -86, y: 66}
+    - name: Sprite_Mouth_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.67665, y: 125}
+        - {x: -127.67665, y: -125}
+        - {x: 128.32335, y: -125}
+        - {x: 128.32335, y: 125}
+      - - {x: -31.676651, y: 52}
+        - {x: -33.67665, y: 44}
+        - {x: -33.67665, y: -20}
+        - {x: -18.676651, y: -41}
+        - {x: 19.323349, y: -41}
+        - {x: 34.32335, y: -31}
+        - {x: 34.32335, y: 34}
+        - {x: 29.323349, y: 52}
+    - name: Sprite_Mouth_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.3533, y: 125}
+        - {x: -127.3533, y: -125}
+        - {x: 128.6467, y: -125}
+        - {x: 128.6467, y: 125}
+      - - {x: 4.646698, y: 34}
+        - {x: -56.353302, y: 4}
+        - {x: -56.353302, y: -30}
+        - {x: -41.353302, y: -30}
+        - {x: 74.6467, y: -10}
+        - {x: 74.6467, y: 34}
+    - name: Sprite_Mouth_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.52991, y: 125}
+        - {x: -127.52991, y: -125}
+        - {x: 129.4701, y: -125}
+        - {x: 129.4701, y: 125}
+      - - {x: -54.529907, y: -20}
+        - {x: -54.529907, y: -36}
+        - {x: 79.47009, y: -36}
+        - {x: 79.47009, y: 33}
+        - {x: 77.47009, y: 36}
+        - {x: 71.47009, y: 37}
+        - {x: 54.470093, y: 37}
+        - {x: 51.470093, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

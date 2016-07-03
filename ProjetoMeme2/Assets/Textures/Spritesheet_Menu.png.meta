@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: dc727ef6ea003ec4a89caf3c81a7e9bc
+timeCreated: 1466610251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheet_Menu_0
+    21300002: Spritesheet_Menu_1
+    21300004: Spritesheet_Menu_2
+    21300006: Spritesheet_Menu_3
+    21300008: Spritesheet_Menu_4
+    21300010: Spritesheet_Menu_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spritesheet_Menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1001
+        height: 1667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -267.5, y: 445}
+        - {x: -267.5, y: -445}
+        - {x: 267.5, y: -445}
+        - {x: 267.5, y: 445}
+    - name: Spritesheet_Menu_1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1449
+        width: 598
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157.00238, y: 44.111267}
+        - {x: 20.00238, y: 44.111267}
+        - {x: 16.00238, y: 38.111267}
+        - {x: -159.99762, y: 38.111267}
+        - {x: -159.99762, y: -9.888733}
+        - {x: -149.99762, y: -42.888733}
+        - {x: 156.00238, y: -42.888733}
+        - {x: 160.00238, y: -41.888733}
+        - {x: 160.00238, y: 29.111267}
+    - name: Spritesheet_Menu_2
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1222
+        width: 841
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 225.46912, y: 38.41754}
+        - {x: -224.53088, y: 38.41754}
+        - {x: -224.53088, y: -37.58246}
+        - {x: 225.46912, y: -37.58246}
+    - name: Spritesheet_Menu_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 821
+        width: 509
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.77356, y: 69.826355}
+        - {x: -128.22644, y: 69.826355}
+        - {x: -136.22644, y: 61.826355}
+        - {x: -136.22644, y: -59.173645}
+        - {x: -135.22644, y: -63.173645}
+        - {x: -127.22644, y: -69.173645}
+        - {x: 127.77356, y: -69.173645}
+        - {x: 136.77356, y: -60.173645}
+        - {x: 136.77356, y: 62.826355}
+    - name: Spritesheet_Menu_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 527
+        width: 264
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.870422, y: 69.861725}
+        - {x: -70.87042, y: 63.861725}
+        - {x: -70.87042, y: -64.138275}
+        - {x: -68.87042, y: -69.138275}
+        - {x: 71.12958, y: -69.138275}
+        - {x: 71.12958, y: 64.861725}
+        - {x: 65.12958, y: 69.861725}
+    - name: Spritesheet_Menu_5
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 527
+        width: 263
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.14307, y: 69.861725}
+        - {x: -70.14307, y: -63.138275}
+        - {x: -63.143066, y: -69.138275}
+        - {x: 65.85693, y: -69.138275}
+        - {x: 70.85693, y: -64.138275}
+        - {x: 70.85693, y: 69.861725}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

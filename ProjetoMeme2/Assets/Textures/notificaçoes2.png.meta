@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 17bed636b4575ec47b10d30c7525a3d4
+timeCreated: 1460340792
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "notifica\xE7oes2_0"
+    21300002: "notifica\xE7oes2_1"
+    21300004: "notifica\xE7oes2_2"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "notifica\xE7oes2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 805
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 208.5, y: -110}
+        - {x: 402.5, y: -110}
+        - {x: 402.5, y: -103}
+        - {x: 377.5, y: -53}
+        - {x: 377.5, y: -51}
+        - {x: 373.5, y: -42}
+        - {x: 382.5, y: -27}
+        - {x: 391.5, y: -10}
+        - {x: 402.5, y: 12}
+        - {x: 402.5, y: 19}
+        - {x: 297.5, y: 19}
+        - {x: 297.5, y: 62}
+        - {x: 295.5, y: 64}
+        - {x: 243.5, y: 64}
+        - {x: 243.5, y: 98}
+        - {x: 238.5, y: 105}
+        - {x: 232.5, y: 110}
+        - {x: 149.5, y: 110}
+        - {x: 149.5, y: 106}
+        - {x: 142.5, y: 110}
+        - {x: 52.5, y: 110}
+        - {x: 46.5, y: 104}
+        - {x: 42.5, y: 106}
+        - {x: 38.5, y: 110}
+        - {x: -44.5, y: 110}
+        - {x: -44.5, y: 106}
+        - {x: -51.5, y: 110}
+        - {x: -86.5, y: 110}
+        - {x: -86.5, y: 106}
+        - {x: -93.5, y: 110}
+        - {x: -140.5, y: 110}
+        - {x: -140.5, y: 106}
+        - {x: -148.5, y: 110}
+        - {x: -231.5, y: 110}
+        - {x: -243.5, y: 98}
+        - {x: -243.5, y: 64}
+        - {x: -289.5, y: 64}
+        - {x: -291.5, y: 62}
+        - {x: -291.5, y: 19}
+        - {x: -402.5, y: 19}
+        - {x: -402.5, y: 10}
+        - {x: -393.5, y: -8}
+        - {x: -384.5, y: -25}
+        - {x: -373.5, y: -44}
+        - {x: -402.5, y: -102}
+        - {x: -402.5, y: -110}
+        - {x: -208.5, y: -110}
+        - {x: -208.5, y: -65}
+        - {x: 207.5, y: -65}
+        - {x: 207.5, y: -109}
+    - name: "notifica\xE7oes2_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 805
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 208.5, y: -107}
+        - {x: 402.5, y: -107}
+        - {x: 402.5, y: -99}
+        - {x: 373.5, y: -41}
+        - {x: 385.5, y: -18}
+        - {x: 402.5, y: 15}
+        - {x: 402.5, y: 23}
+        - {x: 297.5, y: 23}
+        - {x: 297.5, y: 36}
+        - {x: 307.5, y: 35}
+        - {x: 313.5, y: 39}
+        - {x: 314.5, y: 62}
+        - {x: 314.5, y: 104}
+        - {x: 310.5, y: 107}
+        - {x: 243.5, y: 107}
+        - {x: 239.5, y: 103}
+        - {x: 219.5, y: 67}
+        - {x: 220.5, y: 104}
+        - {x: 217.5, y: 107}
+        - {x: 74.5, y: 107}
+        - {x: 70.5, y: 103}
+        - {x: 64.5, y: 107}
+        - {x: -302.5, y: 107}
+        - {x: -306.5, y: 103}
+        - {x: -306.5, y: 42}
+        - {x: -303.5, y: 36}
+        - {x: -292.5, y: 34}
+        - {x: -291.5, y: 22}
+        - {x: -402.5, y: 22}
+        - {x: -402.5, y: 12}
+        - {x: -387.5, y: -16}
+        - {x: -377.5, y: -35}
+        - {x: -373.5, y: -40}
+        - {x: -395.5, y: -84}
+        - {x: -402.5, y: -99}
+        - {x: -402.5, y: -107}
+        - {x: -208.5, y: -107}
+        - {x: -208.5, y: -62}
+        - {x: 207.5, y: -62}
+        - {x: 207.5, y: -106}
+    - name: "notifica\xE7oes2_2"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 637
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -318.5, y: 33}
+        - {x: -318.5, y: -31}
+        - {x: -316.5, y: -33}
+        - {x: -57.5, y: -33}
+        - {x: -57.5, y: 33}
+      - - {x: -39.5, y: 33}
+        - {x: -40.5, y: 25}
+        - {x: -40.5, y: -31}
+        - {x: -36.5, y: -33}
+        - {x: 23.5, y: -33}
+        - {x: 29.5, y: -27}
+        - {x: 29.5, y: 33}
+      - - {x: 46.5, y: 33}
+        - {x: 46.5, y: -33}
+        - {x: 309.5, y: -33}
+        - {x: 313.5, y: -27}
+        - {x: 313.5, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

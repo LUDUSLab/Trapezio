@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 28d296b49a562634b8a031b3e7c2aaab
+timeCreated: 1466631055
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_Tutorial_0
+    21300002: Sprite_Tutorial_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1529
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -255.5, y: 241}
+        - {x: -255.5, y: -241}
+        - {x: 255.5, y: -241}
+        - {x: 255.5, y: 241}
+      - - {x: 101.5, y: 27}
+        - {x: 31.5, y: 77}
+        - {x: 13.5, y: 110}
+        - {x: -0.5, y: 114}
+        - {x: -48.5, y: 114}
+        - {x: -59.5, y: 90}
+        - {x: -79.5, y: 23}
+        - {x: -100.5, y: 14}
+        - {x: -103.5, y: 2}
+        - {x: -103.5, y: -33}
+        - {x: -80.5, y: -103}
+        - {x: -30.5, y: -175}
+        - {x: 79.5, y: -175}
+        - {x: 85.5, y: -160}
+        - {x: 101.5, y: -84}
+      - - {x: -121.5, y: 96}
+        - {x: -125.5, y: 93}
+        - {x: -125.5, y: 86}
+        - {x: -123.5, y: 80}
+        - {x: -61.5, y: 80}
+        - {x: -57.5, y: 83}
+        - {x: -57.5, y: 91}
+        - {x: -59.5, y: 96}
+      - - {x: 11.5, y: 96}
+        - {x: 11.5, y: 80}
+        - {x: 79.5, y: 80}
+        - {x: 79.5, y: 94}
+        - {x: 78.5, y: 96}
+      - - {x: 39.5, y: 158}
+        - {x: -0.5, y: 126}
+        - {x: -0.5, y: 108}
+        - {x: 3.5, y: 105}
+        - {x: 12.5, y: 105}
+        - {x: 52.5, y: 146}
+        - {x: 52.5, y: 158}
+      - - {x: -98.5, y: 147}
+        - {x: -60.5, y: 106}
+        - {x: -50.5, y: 106}
+        - {x: -45.5, y: 108}
+        - {x: -45.5, y: 115}
+        - {x: -46.5, y: 118}
+        - {x: -84.5, y: 158}
+        - {x: -93.5, y: 158}
+        - {x: -98.5, y: 157}
+      - - {x: -30.5, y: 121}
+        - {x: -27.5, y: 117}
+        - {x: -18.5, y: 117}
+        - {x: -14.5, y: 119}
+        - {x: -14.5, y: 182}
+        - {x: -17.5, y: 185}
+        - {x: -25.5, y: 185}
+        - {x: -30.5, y: 184}
+    - name: Sprite_Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 0
+        width: 1529
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -255.33511, y: 241}
+        - {x: -255.33511, y: -241}
+        - {x: 255.66489, y: -241}
+        - {x: 255.66489, y: 241}
+      - - {x: 123.66489, y: 19}
+        - {x: 113.66489, y: 38}
+        - {x: 103.66489, y: 46}
+        - {x: 75.66489, y: 64}
+        - {x: 33.664886, y: 90}
+        - {x: 22.664886, y: 94}
+        - {x: 10.664886, y: 120}
+        - {x: -3.3351135, y: 142}
+        - {x: -11.335114, y: 143}
+        - {x: -41.335114, y: 143}
+        - {x: -56.335114, y: 132}
+        - {x: -62.335114, y: 119}
+        - {x: -68.33511, y: 29}
+        - {x: -74.33511, y: 33}
+        - {x: -109.33511, y: 27}
+        - {x: -122.33511, y: 8}
+        - {x: -122.33511, y: -25}
+        - {x: -93.33511, y: -117}
+        - {x: -52.335114, y: -165}
+        - {x: -33.335114, y: -204}
+        - {x: 15.664886, y: -204}
+        - {x: 95.66489, y: -203}
+        - {x: 97.66489, y: -201}
+        - {x: 99.66489, y: -194}
+        - {x: 123.66489, y: -99}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
