@@ -7,8 +7,7 @@ public class PauseController : MonoBehaviour {
     public Button PauseButton;
     public Button ResumeButton;
     public AudioSource AudioFont;
-
-
+    private bool IsPaused;
     // Use this for initialization
     void Start () {
    
@@ -16,6 +15,7 @@ public class PauseController : MonoBehaviour {
 	
     public void PauseGame()
     {
+        this.IsPaused = true;
         //oculta o botão de pause
         PauseButton.GetComponent<Image>().color = new Color(255, 255, 255, 0);
         PauseButton.interactable = false;
@@ -36,6 +36,7 @@ public class PauseController : MonoBehaviour {
 
     public void ResumeGame()
     {
+        this.IsPaused = false;
         //Debug.Log("resume click");
         // ativa o botao de pause
         PauseButton.interactable = true;
@@ -59,4 +60,8 @@ public class PauseController : MonoBehaviour {
 	void Update () {
 	
 	}
+    public bool GetPausedState()
+    {
+        return this.IsPaused;
+    }
 }
