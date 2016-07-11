@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 759d6fa7e34e1cb4ba09acd3a402321f
-timeCreated: 1468256838
+timeCreated: 1468260599
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -65,7 +65,7 @@ TextureImporter:
         width: 341
         height: 336
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 105, y: 88.65271}
@@ -84,18 +84,18 @@ TextureImporter:
     - name: Credit_Screen_1
       rect:
         serializedVersion: 2
-        x: 466
+        x: 487
         y: 0
-        width: 2042
+        width: 1998
         height: 3333
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -627.1738, y: 1024}
-        - {x: -627.1738, y: -1024}
-        - {x: 627.8262, y: -1024}
-        - {x: 627.8262, y: 1024}
+      - - {x: -613.77075, y: 1024}
+        - {x: -613.77075, y: -1024}
+        - {x: 614.22925, y: -1024}
+        - {x: 614.22925, y: 1024}
     outline: []
   spritePackingTag: 
   userData: 
