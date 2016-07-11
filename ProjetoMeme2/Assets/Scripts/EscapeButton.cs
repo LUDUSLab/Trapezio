@@ -7,9 +7,11 @@ public class EscapeButton : MonoBehaviour {
     public bool ExitGame;
     public string ExitGameSceneName;
     public bool PauseGame;
+    public bool ChangeScene;
+    public string SceneName;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 	
 	}
 	
@@ -36,6 +38,10 @@ public class EscapeButton : MonoBehaviour {
                 {
                     GetComponent<PauseController>().PauseGame();
                 }
+            }
+            if(ChangeScene)
+            {
+                SceneManager.LoadScene(SceneName);
             }
         }
 	}
